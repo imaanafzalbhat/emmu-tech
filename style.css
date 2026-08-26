@@ -490,3 +490,13 @@ body.dark nav a {
   object-fit: contain;
   display: block;
 }
+.logo-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo-name {
+  font-size: 28px;
+  font-weight: bold;
+}
