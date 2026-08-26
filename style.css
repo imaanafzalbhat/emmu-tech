@@ -488,7 +488,7 @@ body.dark nav a {
   width: 700px;
   height: 700px;
   object-fit: contain;
-  display: block;
+  display: flex;
 }
 .logo-container {
   display: flex;
