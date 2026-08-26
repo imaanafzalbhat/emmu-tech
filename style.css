@@ -484,3 +484,9 @@ body.dark nav a {
     font-size: 22px;
   }
 }
+.logo {
+  width: 70px;
+  height: 70px;
+  object-fit: contain;
+  display: block;
+}
