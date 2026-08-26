@@ -485,10 +485,10 @@ body.dark nav a {
   }
 }
 .logo {
-  width: 700px;
-  height: 700px;
+  width: 70px;
+  height: 70px;
   object-fit: contain;
-  display: flex;
+  display: block;
 }
 .logo-container {
   display: flex;
